@@ -1,4 +1,4 @@
-# Design Activity - Kiva
+## Design Activity - Kiva.org
 
 ![kiva](http://www.blogforiowa.com/wordpress/wp-content/uploads/kiva_card.png)
 
