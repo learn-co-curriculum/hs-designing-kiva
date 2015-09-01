@@ -1,12 +1,12 @@
-# Design Activity - Kickstarter
+# Design Activity - Kiva
 
-![kickstarter](http://dailygenius.com/wp-content/uploads/2014/08/kick-start-this.jpg)
+![kiva](http://www.blogforiowa.com/wordpress/wp-content/uploads/kiva_card.png)
 
-Today we're going to practice designing an application - deciding how our models, routes, and views should behave before we start coding. You'll be working in groups to design [Kickstarter](http://www.kickstarter.org), a website which lets artists, musicians, inventors, filmmakers, and others post project ideas. Users can fund the project in exchange for a variety of rewards. 
+Today we're going to practice designing an application - deciding how our models, routes, and views should behave before we start coding. You'll be working in groups to design [Kiva](http://www.kiva.org), a website which lets entrepreneurs in underdeveloped nations receive micro-loans from other people around the world. 
 
 ### Determine the Story
 
-First, browse Kickstarter and tell the story of the app. How would you describe how the user interacts with the application? For example: "First, a user will browse projects. Projects have different backers, etc."
+First, browse Kiva and tell the story of the app. How would you describe how the user interacts with the application? For example: "First, a user will browse projects. Projects have different funders, etc."
 
 ### Designing the Schema
 
@@ -25,7 +25,7 @@ Once you've determined your routes, start wireframing the views that will corres
 ### Going Further
 
 + Once you've finished, take a look at the sites below - how could you adapt your designs to fit the following applications? 
-	+ [Kiva](http://www.kiva.org) - microlending application which connects users from all over the world
+	+ [Kickstarter](http://www.kickstarter.com) - microlending application which connects users from all over the world
 	+ [Do Something](http://www.dosomething.org) - organization promoting community service and social change
 	+ [Donors Choose](http://www.donorschoose.org) - allows individuals to donate directly to public school classrooms
 	+ [Indie GoGo](http://www.indiegogo.com) - crowdfunding site similar to Kickstarter
