@@ -25,7 +25,7 @@ Once you've determined your routes, start wireframing the views that will corres
 ### Going Further
 
 + Once you've finished, take a look at the sites below - how could you adapt your designs to fit the following applications? 
-	+ [Kickstarter](http://www.kickstarter.com) - microlending application which connects users from all over the world
+	+ [Kickstarter](http://www.kickstarter.com) - crowdfunding site where artists and inventors, users can support projects in exchange for prizes. 
 	+ [Do Something](http://www.dosomething.org) - organization promoting community service and social change
 	+ [Donors Choose](http://www.donorschoose.org) - allows individuals to donate directly to public school classrooms
 	+ [Indie GoGo](http://www.indiegogo.com) - crowdfunding site similar to Kickstarter
