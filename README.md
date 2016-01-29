@@ -36,4 +36,4 @@ Once you've determined your routes, start wireframing the views that will corres
 
 
 
-<a href='https://learn.co/lessons/hs-designing-kiva' data-visibility='hidden'>View this lesson on Learn.co</a>
+<p data-visibility='hidden'>View <a href='https://learn.co/lessons/hs-designing-kiva' title='Design Activity - Kiva.org'>Design Activity - Kiva.org</a> on Learn.co and start learning to code for free.</p>
